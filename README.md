@@ -31,3 +31,4 @@ This is my personal plan to quickly learn Terraform for my job.
 | **Graph** | A visual representation of resource dependencies, viewable with `terraform graph`. |
 
 
+https://chatgpt.com/c/67c1b83a-35a8-8013-9b35-40832b1a1bd1
